@@ -1,0 +1,8 @@
+name: CustomHomeGUI
+version: 1.0
+main: com.boommc.homegui.Main
+api-version: 1.21
+commands:
+  home:
+    description: Opens the Custom Home GUI
+    usage: /home
